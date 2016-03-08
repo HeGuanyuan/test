@@ -45,3 +45,8 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+/.settings
+/bin
+/mysql-connector-java-5.1.37.zip
+/mysql-connector-java-5.1.37/*
