@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 /* 网易的笔试题，9和g容易混淆，列出字符串中9和g的左右组合*/
-/* 在于每个节点复制副本下传，不能传递原本*/
+
 public class t2 {
 	public static int count = 0;
 
